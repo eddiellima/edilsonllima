@@ -33,6 +33,9 @@ const edilsonLima = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+##
+
+ ![Snake animation](https://github.com/edilsonleitao/edilsonleitao/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
