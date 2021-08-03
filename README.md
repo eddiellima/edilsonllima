@@ -39,6 +39,4 @@ const edilsonLima = {
 
 ##
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=edilsonleitao&width=480&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
